@@ -1,3 +1,3 @@
 # practica_github
 
--Brian.
+Beth Ludojoski
